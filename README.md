@@ -1,7 +1,7 @@
 # Dataverse: Energy Efficiency Analysis  
 
 ## Project Overview  
-Dataverse is an 8-hour datathon where participants analyze data from energy audits to identify inefficiencies and suggest improvements. Our team aimed to build a machine learning model that predicts the Energy Efficiency Rating of buildings and provide actionable recommendations for reducing energy wastage. This aligns with SDG-7: Clean and Affordable Energy.  
+Dataverse is an 8-hour datathon organised by BMSCE, Bangalore where participants analyze data from energy audits to identify inefficiencies and suggest improvements. Our team aimed to build a machine learning model that predicts the Energy Efficiency Rating of buildings and provide actionable recommendations for reducing energy wastage. This aligns with SDG-7: Clean and Affordable Energy.  
 
 ### Key Goals  
 - **Predict Energy Efficiency:** Use machine learning models to classify buildings into energy efficiency rating categories (A, B, C, D).  
